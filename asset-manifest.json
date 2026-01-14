@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfilo_/static/css/main.87201d08.css",
+    "main.js": "/portfilo_/static/js/main.58a206a6.js",
+    "static/js/453.195b869a.chunk.js": "/portfilo_/static/js/453.195b869a.chunk.js",
+    "static/media/organized.png": "/portfilo_/static/media/organized.16e47ac985c35908991f.png",
+    "static/media/corewar2.png": "/portfilo_/static/media/corewar2.f518b2e8118702377bba.png",
+    "static/media/corewarArena.png": "/portfilo_/static/media/corewarArena.95d761de5a20f5e8575f.png",
+    "static/media/back3.png": "/portfilo_/static/media/back3.458d337539c6d1840cce.png",
+    "static/media/cv.pdf": "/portfilo_/static/media/cv.53e4d920ee231ec3b460.pdf",
+    "static/media/map1.png": "/portfilo_/static/media/map1.1a829e8f9c9dfdebbdf2.png",
+    "static/media/my_rpg.png": "/portfilo_/static/media/my_rpg.4aba47b77fffc5109d25.png",
+    "static/media/organized-hero.svg": "/portfilo_/static/media/organized-hero.af1206c4e84b3c74aea061605f62fc77.svg",
+    "static/media/organized-flow.svg": "/portfilo_/static/media/organized-flow.cbc5394eede60991245cf0378d90e8de.svg",
+    "index.html": "/portfilo_/index.html",
+    "main.87201d08.css.map": "/portfilo_/static/css/main.87201d08.css.map",
+    "main.58a206a6.js.map": "/portfilo_/static/js/main.58a206a6.js.map",
+    "453.195b869a.chunk.js.map": "/portfilo_/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87201d08.css",
+    "static/js/main.58a206a6.js"
+  ]
+}
