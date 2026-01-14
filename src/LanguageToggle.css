@@ -1,0 +1,47 @@
+.language-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.06);
+  border: 1px solid rgba(15, 23, 42, 0.12);
+}
+
+.language-toggle button {
+  border: none;
+  background: transparent;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  color: inherit;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.language-toggle button.is-active {
+  background: rgba(108, 92, 231, 0.18);
+  color: #4c2ed1;
+}
+
+[data-theme='dark'] .language-toggle {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+[data-theme='dark'] .language-toggle button.is-active {
+  background: rgba(108, 92, 231, 0.35);
+  color: #e9e6ff;
+}
+
+.language-toggle--compact {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.language-toggle--compact button {
+  flex: 1;
+  text-align: center;
+}
