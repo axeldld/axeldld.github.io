@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/axeldld.github.io/static/css/main.87201d08.css",
-    "main.js": "/axeldld.github.io/static/js/main.aacf6810.js",
-    "static/js/453.195b869a.chunk.js": "/axeldld.github.io/static/js/453.195b869a.chunk.js",
-    "static/media/organized.png": "/axeldld.github.io/static/media/organized.16e47ac985c35908991f.png",
-    "static/media/corewar2.png": "/axeldld.github.io/static/media/corewar2.f518b2e8118702377bba.png",
-    "static/media/corewarArena.png": "/axeldld.github.io/static/media/corewarArena.95d761de5a20f5e8575f.png",
-    "static/media/back3.png": "/axeldld.github.io/static/media/back3.458d337539c6d1840cce.png",
-    "static/media/cv.pdf": "/axeldld.github.io/static/media/cv.53e4d920ee231ec3b460.pdf",
-    "static/media/map1.png": "/axeldld.github.io/static/media/map1.1a829e8f9c9dfdebbdf2.png",
-    "static/media/my_rpg.png": "/axeldld.github.io/static/media/my_rpg.4aba47b77fffc5109d25.png",
-    "static/media/organized-hero.svg": "/axeldld.github.io/static/media/organized-hero.af1206c4e84b3c74aea061605f62fc77.svg",
-    "static/media/organized-flow.svg": "/axeldld.github.io/static/media/organized-flow.cbc5394eede60991245cf0378d90e8de.svg",
-    "index.html": "/axeldld.github.io/index.html",
-    "main.87201d08.css.map": "/axeldld.github.io/static/css/main.87201d08.css.map",
-    "main.aacf6810.js.map": "/axeldld.github.io/static/js/main.aacf6810.js.map",
-    "453.195b869a.chunk.js.map": "/axeldld.github.io/static/js/453.195b869a.chunk.js.map"
+    "main.css": "/static/css/main.87201d08.css",
+    "main.js": "/static/js/main.9a06ef18.js",
+    "static/js/453.195b869a.chunk.js": "/static/js/453.195b869a.chunk.js",
+    "static/media/organized.png": "/static/media/organized.16e47ac985c35908991f.png",
+    "static/media/corewar2.png": "/static/media/corewar2.f518b2e8118702377bba.png",
+    "static/media/corewarArena.png": "/static/media/corewarArena.95d761de5a20f5e8575f.png",
+    "static/media/back3.png": "/static/media/back3.458d337539c6d1840cce.png",
+    "static/media/cv.pdf": "/static/media/cv.53e4d920ee231ec3b460.pdf",
+    "static/media/map1.png": "/static/media/map1.1a829e8f9c9dfdebbdf2.png",
+    "static/media/my_rpg.png": "/static/media/my_rpg.4aba47b77fffc5109d25.png",
+    "static/media/organized-hero.svg": "/static/media/organized-hero.af1206c4e84b3c74aea061605f62fc77.svg",
+    "static/media/organized-flow.svg": "/static/media/organized-flow.cbc5394eede60991245cf0378d90e8de.svg",
+    "index.html": "/index.html",
+    "main.87201d08.css.map": "/static/css/main.87201d08.css.map",
+    "main.9a06ef18.js.map": "/static/js/main.9a06ef18.js.map",
+    "453.195b869a.chunk.js.map": "/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87201d08.css",
-    "static/js/main.aacf6810.js"
+    "static/js/main.9a06ef18.js"
   ]
 }
