@@ -146,7 +146,7 @@ function App() {
   return (
     <ParallaxProvider>
       <LanguageProvider>
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router>
           <div className="App">
             <ThemeToggle />
             <Header />
